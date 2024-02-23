@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text Decoder | Alura Challenge</title>
+    <link rel="shortcut icon" href="img/favicon.webp" type="image/x-icon">
+    <!-- Estilos -->
+    <link rel="stylesheet" href="style.css">
+    <!-- Scripts -->
+    <script src="script.js" defer></script>
+    <!-- Fontes -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <main class="main-container">
+        <div class="input-container">
+            <img id="logo" src="img/Frame 6.svg" alt="Alura Logo">
+            <textarea name="input" id="input" cols="30" rows="10" placeholder="Digite seu texto"></textarea>
+            <div class="buttons-container">
+                <img id="alert" src="img/Frame 1.svg" alt="Alert Icon">
+                <button id="code">Criptografar</button>
+                <button id="decode">Descriptografar</button>
+            </div>
+        </div>
+        <div class="empty-container">
+            <img src="img/High quality products 1 1.svg" alt="No Message Image">
+            <h2>Nenhuma mensagem encontrada</h2>
+            <p>Digite um texto que você deseja criptografar ou descriptografar</p>
+        </div>
+        <div class="screen-container">
+            <p id="code-text"></p>
+            <button id="copy">Copiar</button>
+        </div>
+    </main>
+</body>
+</html>
