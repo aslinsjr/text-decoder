@@ -9,8 +9,8 @@ Essa é uma solução do desafio proposto pela [ Alura Challenges: ](https://www
 
 ### Links
 
-- Solução URL: [Repository](https://your-solution-url.com)
-- Live Site URL: [GitHub Page](https://your-live-site-url.com)
+- Solução URL: [Repository](https://github.com/aslinsjr/text-decoder)
+- Live Site URL: [GitHub Page](https://aslinsjr.github.io/text-decoder/)
 
 ### Desenvolvido com
 
@@ -26,5 +26,5 @@ Nesse desafio explorei minhas habilidades de manipulação de DOM, aprendi mais 
 ## Autor
 
 - Linkedln - [Alexandre Lins](https://www.linkedin.com/in/alexandre-lins-14b190274/)
-- Portifólio - [@aslinsjr](https://aslinsjr.github.io/my-web-site/)
+- Portifólio - [Olá Mundo!](https://aslinsjr.github.io/my-web-site/)
 
